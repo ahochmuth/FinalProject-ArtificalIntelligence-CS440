@@ -1,7 +1,7 @@
 # FinalProject-ArtificalIntelligence-CS440
 Final Project Showcase in CS440 - Artificial Intelligence.
 
-This project is essentially a combination of multiple top Kaggle Submissions for the Skin Cancer MNIST classification competition. My code/work is minimal and I mainly completed this project with the goal of learning from open source contributions. Note that I used only train and test datasets.....usual practice involves train, development, and test datasets but I stuck to train and test since most top submitters of the Kaggle competition had done this (probably since the dataset was rather small).
+This project is essentially a combination of multiple top Kaggle Submissions for the Skin Cancer MNIST classification competition. My code/work is minimal and I mainly completed this project with the goal of learning from open source contributions. Note that I used only train and test datasets.....usual practice involves train, development, and test datasets but I stuck to train and test due to the size of the dataset.
 
 Main Takeaways:
 - Data Augmentation and Utilizing Effective Optimization Algorithms are both some of the easiest ways to improve model accuracy on image datasets. 
