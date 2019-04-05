@@ -8,7 +8,8 @@ Main Takeaways:
 
 - It is important to pull training data and testing data both from the same dataset distribution.
 
-- 
+
+TODO: In the end I did not attain accuracy anywhere near that of the top Kaggle submitters. I have not fixed the bug in my code for the reason that this project was done only to showcase my ability to find optimal hyperperameters for a model with the small amount of processing power I had available. 
 
 
 The dataset can be found from: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
